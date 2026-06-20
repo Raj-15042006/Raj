@@ -5,7 +5,7 @@ Data Analyst | Power BI Developer | SQL Enthusiast | Python Learner
 </h3>
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/view/1428586720" width="100%">
+  <img src="https://drive.google.com/file/d/1DLmHNcwbWWGBxPpbKnKCoPd05V3p5cEE/view?usp=sharing" width="100%">
 </p>
 
 <br>
