@@ -38,8 +38,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y5bDg4YjN2ZmI4aTZvcnN2OG
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=postgresql" />
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=powerbi" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 
 </p>
