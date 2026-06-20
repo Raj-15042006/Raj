@@ -5,7 +5,7 @@ Data Analyst | Power BI Developer | SQL Enthusiast | Python Learner
 </h3>
 
 <p align="center">
-  <img src="./Raj_Bammer.png" width="100%">
+  <img src="./Raj_Banner.png" width="100%">
 </p>
 
 <br>
